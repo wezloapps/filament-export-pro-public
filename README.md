@@ -24,7 +24,7 @@ A comprehensive, model-agnostic export engine for Filament. Handles large datase
 ## Requirements
 
 - PHP 8.4+
-- Laravel 13+
+- Laravel 10+
 - Filament 4+
 
 ## Installation
