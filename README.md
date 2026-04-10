@@ -29,13 +29,11 @@ A comprehensive, model-agnostic export engine for Filament. Handles large datase
 
 ## Installation
 
-Installation instructions
-Share these instructions with your customers to help them get started with your package.
-
 Configure Composer repository
 composer config repositories.wezlo composer https://wezlo.privato.pub/composer
 Authenticate with Privato
 composer config --auth http-basic.wezlo.privato.pub "<EMAIL>" "<KEY>"
+
 Require the package
 
 
